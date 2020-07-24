@@ -2,7 +2,7 @@
 
 I'm Bella Cockrell and, full-time, I work as an editor for a publishing company. I moonlight as a frontend dev and what I love about programming is that I'm constantly training the ol' wetware -- the world of tech is <strong>huge</strong> and I can't wait to learn more about it.
 
-<img src='https://bellacockrell.com/static/media/logo.a5c5969b.svg' width='200px'/>
+<img src='https://bellacockrell.com/static/media/logo.a5c5969b.svg' alt='Looks a bit like me, no?' width='200px'/>
 
 ### A bit about me
 <ul>
