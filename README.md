@@ -4,7 +4,7 @@ Hi there and welcome to my GitHub! Here you'll find a various selection of proje
 
 What I love about programming is that I'm constantly training the ol' wetware -- the world of tech is <strong>huge</strong> and I can't wait to learn more about it. The community is phenomenal and so supportive -- either online or face to face and I can't wait to become good enough to teach others, to help give something back for all the lessons and code reviews.
 
-<img src='https://bellacockrell.com/static/media/logo.a5c5969b.svg' alt='Looks a bit like me, no?' width='200px'/>
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairMiaWallace&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Black&eyeType=Default&eyebrowType=RaisedExcitedNatural&mouthType=Smile&skinColor=Light' alt='Looks a bit like me, no?' width='200px'/>
 
 ### A bit about me
 <ul>
