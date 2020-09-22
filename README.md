@@ -1,6 +1,6 @@
 ## I'm Bella Cockrell👋 
 
-Hi there and welcome to my GitHub! Here you'll find a various selection of projects I have started (and I daren't say how many I've completed). I recently completed a <a href="https://mars-daily-weather-app.netlify.app/">Mars Weather App in React</a> and I'm currently working on a spoof holiday website in anticipation for the new Dune film, deployed <a href="https://arrakis-adventures.netlify.app/">here</a>
+Hi there and welcome to my GitHub! Here you'll find a various selection of projects I have started (and I daren't say how many I've completed). I recently completed a <a href="https://mars-daily-weather-app.netlify.app/">Mars Weather App in React</a> and I'm currently working on a spoof holiday website in anticipation for the new Dune film, deployed <a href="https://arrakis-adventures.netlify.app/">here</a>.
 
 <img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairMiaWallace&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Black&eyeType=Default&eyebrowType=RaisedExcitedNatural&mouthType=Smile&skinColor=Light' alt='Looks a bit like me, no?' width='200px'/>
 
