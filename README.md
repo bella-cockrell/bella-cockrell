@@ -7,7 +7,7 @@ Hi there and welcome to my GitHub! Here you'll find a various selection of proje
 ### A bit about me
 <ul>
 <li>🤖 I work as an Academy Engineer @ Made Tech.</li>
-<li>🌱 I’m currently learning some backend fundamentals for my frontend projects; Express.js, Node.js, Mongoose, MongoDB(NoSQL).</li>
+<li>🌱 I’m currently learning some backend fundamentals for my frontend projects; Express.js, Node.js, Mongoose, MongoDB(NoSQL). Plus, I'm learning a whole ton of stuff about Ruby and OOP!</li>
   <li>📫 How to reach me: via <a href='https://twitter.com/heybellac'>Twitter</a>, <a href='https://www.linkedin.com/in/bella-cockrell/'>LinkedIn</a> or <a href='mailto: hello@bellacockrell.com'>email</a></li>
 <li>😄 Pronouns: She/her</li>
 <li>⚡ Fun fact: I have a pet cat called Zelda🐈 </li> 
